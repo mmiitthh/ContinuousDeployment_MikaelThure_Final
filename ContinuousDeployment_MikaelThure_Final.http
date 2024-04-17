@@ -1,0 +1,6 @@
+@ContinuousDeployment_MikaelThure_Final_HostAddress = http://localhost:5279
+
+GET {{ContinuousDeployment_MikaelThure_Final_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
